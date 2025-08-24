@@ -42,6 +42,6 @@
    
 - Разработка программы для автоматического перепланирования даты проведения мероприятий по условию [Проект разработка перепланировщика для мероприятий ПНР](https://github.com/ArtoAndrey/Portfolio/blob/main/5.%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%20%D0%B4%D0%B0%D1%82%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%9F%D0%9D%D0%A0/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%BF%D0%BE%20%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D0%BB%D0%B0%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%B4%D0%B0%D1%82%20%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B9%20%D0%9F%D0%9D%D0%A0.ipynb)
    
--Разработка макета Дашборда для мероприятий ПНР [Макет Дашборда для ПНР](https://datalens.yandex.cloud/cywitex1k07ux-maket-dashbord-pnr)
+
 
 
