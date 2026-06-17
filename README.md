@@ -10,3 +10,6 @@
 | 6 | **Парсер сообщений WhatsApp**<br>Скрипт для автоматического сбора, логирования и парсинга входящих сообщений из бизнес-аккаунтов мессенджера WhatsApp. | `Python` • `Requests` • `Time` | [Открыть проект](./whatsapp_parser/parser.py) |
 | 7 | **Прогнозирование спроса на такси**<br>Краткосрочное почасовое предсказание заказов в аэропортах для оптимизации автопарка с подбором параметров в Optuna на GPU.<br>**Результат:** RMSE = 41.82 (ТЗ $\le$ 48) | `Python` • `CatBoost` • `LightGBM` • `Optuna` • `TimeSeriesSplit` • `GPU` | [Открыть проект](./taxi_demand_forecasting/taxi_demand_forecasting.ipynb) |
 | 8 | **Анализ рынка недвижимости**<br>Исследовательский анализ данных (EDA) и выявление ключевых нелинейных факторов ценообразования жилья. | `Python` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Phik` | [Открыть проект](./real_estate_market_analysis/notebooks/real_estate_market_analysis.ipynb) |
+| 9 | **Автоклассификатор тарифов CRM**<br>Модуль автоматического скоринга абонентской базы для перевода клиентов с архивных тарифов на новые с устранением мультиколлинеарности.<br>**Результат:** Accuracy = 0.8118 (ТЗ $\ge$ 0.75), Lift = +11.82% | `Python` • `Scikit-Learn` • `Pandas` • `GridSearchCV` • `Seaborn` | [Открыть проект](./crm_tariff_classifier/tariff_scoring_pipeline.ipynb) |
+
+
